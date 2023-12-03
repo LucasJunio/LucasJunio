@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **AWS**
-- 👨‍💻 All of my projects are available at [**Example Projects**](https://github.com/LucasJunio/example-projects/)
+- 👨‍💻 All of my projects are available at [**Example Projects**](https://github.com/LucasJunio/LucasJunio/blob/main/projects.md)  
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/lucas-junio/)**
 - ⚡ Fun fact **I dance forró**
 
